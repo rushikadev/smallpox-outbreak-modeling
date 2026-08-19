@@ -49,4 +49,4 @@ networkx
 
 ## Usage
 
-Each notebook is self-contained — run top to bottom to reproduce all figures and results.
+Each notebook is self-contained. Run top to bottom to reproduce all figures and results.
